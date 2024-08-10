@@ -44,3 +44,5 @@
 ### Support paid
 Telegram: @madcod
 BTC: 1JHgjtUed6xD1j9ybRbbXv4ejwRbBiabBG
+
+
